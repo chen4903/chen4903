@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=chen4903&theme=xcode" /> </div>
