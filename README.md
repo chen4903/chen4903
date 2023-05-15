@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=chen4903" /> </div>
