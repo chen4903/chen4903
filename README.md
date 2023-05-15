@@ -4,4 +4,6 @@
 
 I'm a web3 developer
 
+You are my ![Visitor Count](https://profile-counter.glitch.me/chen4903/count.svg)th visitor
+
 My Website: [LEVI_104](https://www.levi104.com/)
